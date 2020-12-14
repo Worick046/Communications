@@ -9,6 +9,8 @@ body{
 }
 #button{
   padding: 15px 30px;
+  text-decoration: none;
+  color: white;
 }
 #button:hover{
   background-color: rgb(44, 44, 44);
